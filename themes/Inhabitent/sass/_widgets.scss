@@ -1,0 +1,56 @@
+/*--------------------------------------------------------------
+# Widgets
+--------------------------------------------------------------*/
+
+.widget {
+	margin: 0 0 $base__space-unit;
+
+	/* Make sure select elements fit in widgets. */
+	select {
+		max-width: 100%;
+	}
+}
+
+/* Search widget. */
+.widget_search .search-submit {
+	display: none;
+}
+.widget-area{
+	width: 270px;
+	margin-left: 80px;
+	padding-left: 30px;
+	line-height: 2rem;
+}
+.single .widget-area {
+    width: 270px;
+		margin-right: 100px;
+    padding-left: 30px;
+    padding-top: 70px;
+    line-height: 2rem;
+		margin-left: 0;
+}
+.widget widget_archive ul {
+margin-left: -40px;
+}
+
+span.add {
+    font-weight:normal;
+}
+
+.textwidget span{
+    font-weight: bold;
+}
+
+.widget ul {
+    padding: 0px;
+    margin-left: 0px;
+	}
+
+a:visited {
+
+    color: #248a83;
+}
+a{
+	color: #248a83;
+	text-decoration: none;
+}
