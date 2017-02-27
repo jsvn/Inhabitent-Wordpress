@@ -1,7 +1,7 @@
 #Inhabitent
 ##Camping Suppy Company
 
-![Inhabitent Home Screen](../../Inhabitent/images/inhabitent.png "Inhabitent Home Screen")
+![Inhabitent Home Screen](../../images/inhabitent.png "Inhabitent Home Screen")
 
 Using Wordpress as a CMS, custom pages, post types and taxonomies were created. A starter theme based on _underscores was used and further theme development and styling was required to adequately reflect the design comps.
 
